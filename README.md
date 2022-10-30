@@ -1,6 +1,11 @@
 # Grade-12-Final-Project
 Recreation of Chess in python. Gui created using pygame and tkinter.
 
+# Potential future upgrades
+- Add a start menu
+- Create a chess bot/ai
+- Add different mods (Fisher Random, Complete Random etc.)
+
 # Requirements
 - python 3.8+
 - pygame latest
